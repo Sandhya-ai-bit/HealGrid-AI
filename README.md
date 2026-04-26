@@ -144,6 +144,9 @@ Run Frontend (Next.js):
     `
     Open your browser to http://localhost:3000 to access the application.
 
+    Deployed link :
+    https://vital-insight-grid.lovable.app
+
 🤝 Contribution
 
 We welcome contributions to HEALGRID AI! Please see our CONTRIBUTING.md` guidelines (to be created) for more details on how you can help improve this platform.
